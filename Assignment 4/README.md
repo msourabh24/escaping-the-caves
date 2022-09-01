@@ -1,5 +1,5 @@
-##CS641A Assignment 4
-###Team Name: Cryptophile
+## CS641A Assignment 4
+### Team Name: Cryptophile
 
 Steps to run `break_DES.py`:
 1. Install `sshpass` on the commandline (for Ubuntu: run `sudo apt-get install sshpass`).
